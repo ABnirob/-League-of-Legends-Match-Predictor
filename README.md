@@ -214,21 +214,75 @@ class LogisticRegressionModel(nn.Module):
 🥉 `blueTotalGold`
 
 ---
+## 📊 Results & Visualizations
 
-## 🖼️ Visualizations
+The model was evaluated using multiple performance metrics and visual diagnostic plots.
 
-The project automatically produces:
+---
 
-- 📉 Training Loss Curve
-  <img width="840" height="480" alt="training_loss" src="https://github.com/user-attachments/assets/f47dfafc-0f0d-4f8d-919f-b16621fedabf" />
-- 📊 Confusion Matrix
-  <img width="600" height="600" alt="confusion_matrix" src="https://github.com/user-attachments/assets/8f3faeb7-b8f7-46ce-a293-2a770e9847d8" />
-- 📈 ROC Curve
-  <img width="720" height="600" alt="roc_curve" src="https://github.com/user-attachments/assets/eeef6ada-c2d8-416d-a30b-e94abbf3dd52" />
-- ⚙️ Learning Rate Tuning Analysis
-  <img width="840" height="480" alt="lr_tuning" src="https://github.com/user-attachments/assets/82c2b2fb-5c95-4376-b6ca-257def066a01" />
-- 🔍 Feature Importance Analysis
-  <img width="1080" height="960" alt="feature_importance" src="https://github.com/user-attachments/assets/33be4c00-64fd-4e6f-b61e-74f21d375083" />
+### 📉 Training Loss Curve
+
+Tracks the model's learning progress across training epochs.
+
+<p align="center">
+  <img src="<img width="840" height="480" alt="training_loss" src="https://github.com/user-attachments/assets/99eec1b7-5c31-4a7f-b83a-5ade7f5ad3cd" />
+>
+</p>
+
+---
+
+### 📊 Confusion Matrix
+
+Shows classification performance across True Positives, True Negatives,
+False Positives, and False Negatives.
+
+<p align="center">
+  <img src="images/confusion_matrix.png" width="700">
+</p>
+
+---
+
+### 📈 ROC Curve
+
+Evaluates the model's ability to distinguish between winning and losing teams.
+
+<p align="center">
+  <img src="images/roc_curve.png" width="700">
+</p>
+
+---
+
+### ⚙️ Learning Rate Tuning
+
+Comparison of different learning rates and their impact on model performance.
+
+<p align="center">
+  <img src="images/lr_tuning.png" width="800">
+</p>
+
+---
+
+### 🔍 Feature Importance Analysis
+
+Highlights the most influential features driving match outcome predictions.
+
+<p align="center">
+  <img src="images/feature_importance.png" width="800">
+</p>
+
+---
+
+### 🎯 Performance Summary
+
+| Metric | Score |
+|----------|----------|
+| Train Accuracy | **81.63%** |
+| Test Accuracy | **79.96%** |
+| Precision | **0.7990** |
+| Recall | **0.7924** |
+| F1 Score | **0.7957** |
+| ROC AUC | **0.8935** |
+
 
 Located in:
 
