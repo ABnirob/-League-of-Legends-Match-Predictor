@@ -219,10 +219,10 @@ class LogisticRegressionModel(nn.Module):
 
 The project automatically produces:
 
-- 📉 Training Loss Curve
-  <img width="840" height="480" alt="training_loss" src="https://github.com/user-attachments/assets/f47dfafc-0f0d-4f8d-919f-b16621fedabf" />
 - 📊 Confusion Matrix
   <img width="600" height="600" alt="confusion_matrix" src="https://github.com/user-attachments/assets/8f3faeb7-b8f7-46ce-a293-2a770e9847d8" />
+- 📉 Training Loss Curve
+  <img width="840" height="480" alt="training_loss" src="https://github.com/user-attachments/assets/f47dfafc-0f0d-4f8d-919f-b16621fedabf" />
 - 📈 ROC Curve
   <img width="720" height="600" alt="roc_curve" src="https://github.com/user-attachments/assets/eeef6ada-c2d8-416d-a30b-e94abbf3dd52" />
 - ⚙️ Learning Rate Tuning Analysis
