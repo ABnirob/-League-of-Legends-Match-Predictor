@@ -237,7 +237,8 @@ Shows classification performance across True Positives, True Negatives,
 False Positives, and False Negatives.
 
 <p align="center">
-  <img src="images/confusion_matrix.png" width="700">
+  <img width="600" height="600" alt="confusion_matrix" src="https://github.com/user-attachments/assets/3e281527-fba4-4389-b238-14a3538c5048" />
+
 </p>
 
 ---
