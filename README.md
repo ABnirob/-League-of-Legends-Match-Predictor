@@ -225,7 +225,7 @@ The model was evaluated using multiple performance metrics and visual diagnostic
 Tracks the model's learning progress across training epochs.
 
 <p align="center">
-  <img src="<img width="840" height="480" alt="training_loss" src="https://github.com/user-attachments/assets/99eec1b7-5c31-4a7f-b83a-5ade7f5ad3cd" />
+  <img width="840" height="480" alt="training_loss" src="https://github.com/user-attachments/assets/3b50bd01-72d2-4f58-bba2-5ddf636e214d" />
 >
 </p>
 
