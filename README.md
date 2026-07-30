@@ -1,5 +1,3 @@
- 
-
 <p align="center">
   <h1 align="center">🎮 League of Legends Match Predictor</h1>
   <p align="center">
