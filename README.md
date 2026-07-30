@@ -248,7 +248,7 @@ False Positives, and False Negatives.
 Evaluates the model's ability to distinguish between winning and losing teams.
 
 <p align="center">
-  <img src="images/roc_curve.png" width="700">
+  <img width="720" height="600" alt="roc_curve" src="https://github.com/user-attachments/assets/45c938b8-e1ad-4f55-b50e-4260a287b21f" />
 </p>
 
 ---
@@ -258,7 +258,7 @@ Evaluates the model's ability to distinguish between winning and losing teams.
 Comparison of different learning rates and their impact on model performance.
 
 <p align="center">
-  <img src="images/lr_tuning.png" width="800">
+  <img width="840" height="480" alt="lr_tuning" src="https://github.com/user-attachments/assets/b15afda4-d3ef-4107-94e7-8781bee396cb" />
 </p>
 
 ---
@@ -268,7 +268,7 @@ Comparison of different learning rates and their impact on model performance.
 Highlights the most influential features driving match outcome predictions.
 
 <p align="center">
-  <img src="images/feature_importance.png" width="800">
+  <img width="1080" height="960" alt="feature_importance" src="https://github.com/user-attachments/assets/b41714e4-84e8-4b7f-a08b-be2eea243afd" />
 </p>
 
 ---
