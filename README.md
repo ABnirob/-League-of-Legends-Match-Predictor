@@ -220,7 +220,7 @@ class LogisticRegressionModel(nn.Module):
 The project automatically produces:
 
 - 📉 Training Loss Curve
-- <img width="840" height="480" alt="training_loss" src="https://github.com/user-attachments/assets/c214ff90-f339-48e0-a8fc-dff998787ff7" />
+  <img width="840" height="480" alt="training_loss" src="https://github.com/user-attachments/assets/c214ff90-f339-48e0-a8fc-dff998787ff7" />
 
 - 📊 Confusion Matrix
 - 📈 ROC Curve
