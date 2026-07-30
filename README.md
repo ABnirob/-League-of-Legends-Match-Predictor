@@ -223,7 +223,11 @@ The project automatically produces:
   <img width="840" height="480" alt="training_loss" src="https://github.com/user-attachments/assets/c214ff90-f339-48e0-a8fc-dff998787ff7" />
 
 - 📊 Confusion Matrix
+  <img width="600" height="600" alt="confusion_matrix" src="https://github.com/user-attachments/assets/c74e7a2f-0108-4dc6-893c-45dd33d433c0" />
+
 - 📈 ROC Curve
+  <img width="720" height="600" alt="roc_curve" src="https://github.com/user-attachments/assets/d33d8f30-40f5-4a59-9754-3ad1007ee464" />
+
 - ⚙️ Learning Rate Tuning Analysis
 - 🔍 Feature Importance Analysis
 
